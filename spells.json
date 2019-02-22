@@ -691,7 +691,7 @@ var jsonSpellData = [
     "casting_time":"1 action",
     "level":"Cantrip",
     "school":"Evocation",
-    "class":"Sorcerer, Warlock, Wizard",
+    "class":"Sorcerer, Warlock, Wizard"
   },
   {
     "name":"Branding Smite",
@@ -2825,7 +2825,7 @@ var jsonSpellData = [
     "casting_time":"1 action",
     "level":"Cantrip",
     "school":"Evocation",
-    "class":"Sorcerer, Warlock, Wizard",
+    "class":"Sorcerer, Warlock, Wizard"
   },
   {
     "name":"Guardian of Faith",
@@ -3590,7 +3590,7 @@ var jsonSpellData = [
     "casting_time":"1 action",
     "level":"Cantrip",
     "school":"Evocation",
-    "class":"Sorcerer, Warlock, Wizard",
+    "class":"Sorcerer, Warlock, Wizard"
   },
   {
     "name":"Locate Animals or Plants",
@@ -5580,7 +5580,7 @@ var jsonSpellData = [
     "casting_time":"1 action",
     "level":"Cantrip",
     "school":"Conjuration",
-    "class":"Sorcerer, Warlock, Wizard",
+    "class":"Sorcerer, Warlock, Wizard"
   },
   {
     "name":"Symbol",
